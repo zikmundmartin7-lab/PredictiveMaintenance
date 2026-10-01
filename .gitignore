@@ -1,0 +1,9 @@
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local environments
+venv/
+.venv/
